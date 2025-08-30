@@ -40,3 +40,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meeghaa&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" />
 </div>
 
+### 📫 How to Reach Me
+Feel free to reach out if you want to collaborate on any project or just want to connect!  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
