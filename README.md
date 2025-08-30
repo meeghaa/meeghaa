@@ -6,8 +6,8 @@
   <li>💞️ Looking to collaborate on Java, Web Development, and React.js-based projects</li>
   <li>📫 Reach me at: <u><a href="mailto:meeghaa11@gmail.com">meeghaa11@gmail.com</a></u></li>
   <li>🗿 My Portfolio: <a href="https://your-portfolio-link.com" target="_blank">Click Here</a></li>
-  <li>😄 Pronouns: <b>she/her</b></li>
-  <li>⚡ Fun fact: <b>I believe the future is decentralized!</b> 🚀</li>
+  <li>😄 Pronouns: she/her</li>
+  <li>⚡ Fun fact: I believe the future is decentralized! 🚀</li>
 </ul>
 
 
