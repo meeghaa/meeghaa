@@ -1,13 +1,13 @@
-<h1>👋Hi, I’m Megha S</h1>
+<h1>👋 Hi, I’m Megha S</h1>
 <ul>
-<li>👀 Passionate about Java Development, Web Technologies</li>
-<li>🌱 Currently exploring Full Stack Development while diving into DevOps tools and workflows</li>
-<li>💡 Always eager to learn, build, and contribute to open-source projects</li>
-<li>💞️ Looking to collaborate on Java, Web Development and ReactJS-based projects</li>
-<li>📫 Reach me at: <u>meeghaa11@gmail.com</u></li>
-<li>🗿 My Portfolio: Click Here</li>
-<li>😄 Pronouns: she/her</li>
-<li>⚡ Fun fact: I believe the future is decentralized! 🚀</li>
+  <li>👀 Passionate about <b>Java Development</b> and <b>Web Technologies</b></li>
+  <li>🌱 Currently exploring <b>Full Stack Development</b> while diving into <b>DevOps tools</b> and workflows</li>
+  <li>💡 Always eager to learn, build, and contribute to <b>open-source projects</b></li>
+  <li>💞️ Looking to collaborate on <b>Java, Web Development,</b> and <b>ReactJS-based projects</b></li>
+  <li>📫 Reach me at: <u><a href="mailto:meeghaa11@gmail.com">meeghaa11@gmail.com</a></u></li>
+  <li>🗿 My Portfolio: <a href="https://your-portfolio-link.com" target="_blank">Click Here</a></li>
+  <li>😄 Pronouns: <b>she/her</b></li>
+  <li>⚡ Fun fact: <i>I believe the future is decentralized!</i> 🚀</li>
 </ul>
 
 
