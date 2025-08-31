@@ -5,7 +5,7 @@
   <li>💡 Always eager to learn, build, and contribute to open-source projects</li>
   <li>💞️ Looking to collaborate on Java, Web Development, and React.js-based projects</li>
   <li>📫 Reach me at: <u><a href="mailto:meeghaa11@gmail.com">meeghaa11@gmail.com</a></u></li>
-  <li>🗿 My Portfolio: <a href="http://127.0.0.1:5500/index.html" target="_blank">Click Here</a></li>
+  <li>🗿 My Portfolio: <a href="https://meghaportfolio-vxxg.onrender.com/" target="_blank">Click Here</a></li>
   <li>😄 Pronouns: she/her</li>
   <li>⚡ Fun fact: I believe the future is decentralized! 🚀</li>
 </ul>
