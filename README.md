@@ -47,61 +47,6 @@ Feel free to reach out if you want to collaborate on any project or just want to
 
 
 
-# Hi 👋, I'm Megha S
-
-![Profile views](https://komarev.com/ghpvc/?username=meeghaa&color=blue)
-
----
-
-## 🚀 About Me  
-
-I’m a **Java Full Stack Developer** passionate about building scalable and secure applications.  
-With a solid foundation in **Java, Web Technologies, and DevOps**, I’m continuously improving my skills in **Spring Boot, React, and Cloud Technologies**.  
-
-- 🎯 **Currently Learning**: Spring Boot, Microservices, ReactJS, DevOps Tools  
-- 💡 **Interested In**: Full Stack Development, API Security, Cloud Technologies  
-- 💬 **Ask Me About**: Java, Spring Boot, SQL, Web Development, React  
-- 📩 **How to Reach Me**: your-email@gmail.com  
-
----
-
-## 🛠️ Skills & Technologies  
-
-### 🔹 Backend Development  
-- Java (Core & Advanced)  
-- Spring Framework (Spring Boot, Spring MVC, Spring Data JPA)  
-- Microservices Architecture (REST APIs, Service Communication)  
-- Hibernate & JPA  
-- API Security (JWT, OAuth2, RBAC)  
-
-### 🔹 Databases  
-- MySQL  
-- PostgreSQL  
-
-### 🔹 Frontend Development  
-- HTML, CSS, JavaScript  
-- ReactJS (Basics)  
-
-### 🔹 DevOps & Cloud  
-- Containerization & Orchestration: Docker, Kubernetes (Learning)  
-- CI/CD & Automation: GitHub Actions (Exploring)  
-- Cloud Platforms: AWS (Basics)  
-
-### 🔹 Tools & Others  
-- Git & GitHub  
-- Postman (API Testing)  
-- VS Code, IntelliJ  
-
----
-
-## 🔗 Connect with Me  
-
-<a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/your-instagram" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" /></a>
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>  
-
----
-
 💡 I enjoy solving coding challenges, playing with new technologies, and exploring DevOps tools.  
 🚀 Let’s build something amazing together!  
 
