@@ -4,7 +4,7 @@
 
 ## 🚀 About Me  
 
-I’m a **Java Full Stack Developer** passionate about building scalable and secure applications using **Spring Boot, React, and Microservices Architecture** with a strong foundation in **backend development**, I am continuously improving my skills in **Spring Security, DevOps, and cloud technologies**.  
+I’m a **Java Full Stack Developer** passionate about building scalable and secure applications using **Spring Boot, React, and Microservices Architecture** with a strong foundation in **backend development**, I am continuously improving my skills in **Spring Boot, DevOps, and cloud technologies**.  
 
 - 🔭 **Currently Learning**: Spring Boot, Microservices, ReactJS, DevOps Tools  
 - 💡 **Interested In**: Full Stack Development, API Security, Cloud-Native Applications  
