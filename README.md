@@ -1,7 +1,5 @@
 # Hi 👋, I'm Megha S
 
-![Profile views](https://komarev.com/ghpvc/?username=meeghaa&color=blue)
-
 ---
 
 ## 🚀 About Me  
