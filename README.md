@@ -1,6 +1,6 @@
-# Hi 👋, I'm Megha S
+<h1 align="center">Hi 👋, I'm Megha S</h1>
 
----
+
 
 ## 🚀 About Me  
 
